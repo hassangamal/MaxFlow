@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\welcome.o
+./debug\numberofedges.o
+./debug\globalvar.o
+./debug\online_graph.o
+./debug\frotomax.o
+./debug\about_program.o
+./debug\moc_mainwindow.o
+./debug\moc_welcome.o
+./debug\moc_numberofedges.o
+./debug\moc_online_graph.o
+./debug\moc_frotomax.o
+./debug\moc_about_program.o
+);

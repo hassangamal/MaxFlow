@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\welcome.o
+./release\numberofedges.o
+./release\globalvar.o
+./release\online_graph.o
+./release\frotomax.o
+./release\about_program.o
+./release\moc_mainwindow.o
+./release\moc_welcome.o
+./release\moc_numberofedges.o
+./release\moc_online_graph.o
+./release\moc_frotomax.o
+./release\moc_about_program.o
+);
